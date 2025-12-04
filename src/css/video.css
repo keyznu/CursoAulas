@@ -1,0 +1,26 @@
+body{
+    background-color: #e6dac8;
+}
+
+h1{
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #a48d78;
+}
+
+#videos{
+    align-items: center;
+}
+
+.coelhinho-1{
+    padding: 20px 20px 20px 20px;
+}
+
+.coelhinho-2{
+    padding: 20px 20px 20px 20px;
+}
+
+.coelhinho-3{
+    padding: 20px 20px 20px 20px;
+}
